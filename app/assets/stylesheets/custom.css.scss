@@ -1,4 +1,5 @@
-$navbar-default-bg: blue;
+$navbar-default-bg: #0080FF;
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -15,6 +16,20 @@ $navbar-default-bg: blue;
     color: #fff;
     text-decoration: none;
 }
+
+#harticles{
+    font-size: 1.0em;
+    color: #fff;   
+}
+#hlink{
+    font-size: 1.0em;
+    color: #fff;   
+}
+#hactions{
+    font-size: 1.0em;
+    color: #fff;   
+}
+
 
 .center {
     text-align: center;
@@ -36,7 +51,7 @@ $navbar-default-bg: blue;
 
 .btn-xlarge {
     font-size: 1.7em;
-    background-color: blue;
+    background-color: #0080FF;
 }
 
 footer{
